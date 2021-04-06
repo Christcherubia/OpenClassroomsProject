@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T07:59:13.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="picLh0ZthVVQTycvQvNO" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T08:12:59.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="-CC9LeDklCS2eKrtnfCm" version="14.5.7" type="github">
   <diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">
     <mxGraphModel dx="1882" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -110,14 +110,14 @@
         <mxCell id="YIQT-2hCV9qIso7VAItd-4" value="SATA2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="300" y="450" width="38" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YIQT-2hCV9qIso7VAItd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="YIQT-2hCV9qIso7VAItd-1" edge="1">
+        <mxCell id="YIQT-2hCV9qIso7VAItd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" edge="1" source="YIQT-2hCV9qIso7VAItd-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="276.27" y="490" as="targetPoint" />
+            <mxPoint x="320" y="480" as="targetPoint" />
             <mxPoint x="294.27" y="500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YIQT-2hCV9qIso7VAItd-9" value="HDD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="290" y="500" width="149" height="60" as="geometry" />
+        <mxCell id="YIQT-2hCV9qIso7VAItd-9" value="HDD Stockage Fichiers et petits logiciels" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="328.5" y="500" width="149" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YIQT-2hCV9qIso7VAItd-10" value="CPU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="493.13" y="358.93" width="40" height="20" as="geometry" />
@@ -233,13 +233,13 @@
             <mxPoint x="620" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-6" value="Disk Dure 1To (mémoire de stockage) et &lt;br&gt;7200 tpm (tour par minute)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="554" y="515" width="230" height="30" as="geometry" />
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-6" value="Disk Dure 1To (mémoire de stockage) et &lt;br&gt;7200 tpm (tour par minute) &lt;br&gt;câble SATA - 6 Gb/s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="590" y="505" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TYf2DEAOA4ABFRDrbrYm-7" value="" style="endArrow=classic;html=1;exitX=-0.021;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TYf2DEAOA4ABFRDrbrYm-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="540" as="sourcePoint" />
-            <mxPoint x="440" y="531" as="targetPoint" />
+            <mxPoint x="480" y="531" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TYf2DEAOA4ABFRDrbrYm-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -310,6 +310,30 @@
             <mxPoint x="230" y="360" as="sourcePoint" />
             <mxPoint x="240" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-24" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="520" as="sourcePoint" />
+            <mxPoint x="270" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-25" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="520" as="sourcePoint" />
+            <mxPoint x="270" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-26" value="SSD Stockage OS (Windows 10) et Logiciel de BIM" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="110" y="505" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-27" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TYf2DEAOA4ABFRDrbrYm-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="530" as="sourcePoint" />
+            <mxPoint x="110" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-28" value="Solid State Drive 240 Go (Mémoire Flash)&amp;nbsp;&amp;nbsp;&lt;br&gt;NVMe - 6 Gb/s&lt;br&gt;3400 Mo/s (V/Lecture) et 1200 Mo/s (V/Ecriture)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="500" width="270" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T08:12:59.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="-CC9LeDklCS2eKrtnfCm" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T08:41:51.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="wfp0BxkCCfEJWFwYQF8m" version="14.5.7" type="github">
   <diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">
     <mxGraphModel dx="1882" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
         <mxCell id="YIQT-2hCV9qIso7VAItd-4" value="SATA2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="300" y="450" width="38" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YIQT-2hCV9qIso7VAItd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" edge="1" source="YIQT-2hCV9qIso7VAItd-9">
+        <mxCell id="YIQT-2hCV9qIso7VAItd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="YIQT-2hCV9qIso7VAItd-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="480" as="targetPoint" />
             <mxPoint x="294.27" y="500" as="sourcePoint" />
@@ -215,124 +215,124 @@
         <mxCell id="YIQT-2hCV9qIso7VAItd-70" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="571.13" y="121.31" width="30" height="19.25" as="geometry" />
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-1" value="Processeur AMD 3.40 Ghz (fréquence/s)&amp;nbsp;&lt;br&gt;6 cœurs | 12 threads&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-1" value="Processeur AMD 3.40 Ghz (fréquence/s)&amp;nbsp;&lt;br&gt;6 cœurs | 12 threads&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="700" y="304.54" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-2" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="gsJpeJofpkmzajCSOwDN-49">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-2" value="" style="endArrow=classic;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" target="gsJpeJofpkmzajCSOwDN-49" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="700" y="321" as="sourcePoint" />
             <mxPoint x="601.13" y="317.82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-4" value="Barette de RAM 32 Go GDDR4 (mémoire vive) et&lt;br&gt;&amp;nbsp;3200 Mhz (fréquence mémoire)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-4" value="Barette de RAM 32 Go GDDR4 (mémoire vive) et&lt;br&gt;&amp;nbsp;3200 Mhz (fréquence mémoire)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="695" y="384.38" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-5" value="" style="endArrow=classic;html=1;exitX=-0.019;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TYf2DEAOA4ABFRDrbrYm-4">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-5" value="" style="endArrow=classic;html=1;exitX=-0.019;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TYf2DEAOA4ABFRDrbrYm-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="665" y="399" as="sourcePoint" />
             <mxPoint x="620" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-6" value="Disk Dure 1To (mémoire de stockage) et &lt;br&gt;7200 tpm (tour par minute) &lt;br&gt;câble SATA - 6 Gb/s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-6" value="Disk Dure 1To (mémoire de stockage) et &lt;br&gt;7200 tpm (tour par minute) &lt;br&gt;câble SATA - 6 Gb/s" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="590" y="505" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-7" value="" style="endArrow=classic;html=1;exitX=-0.021;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TYf2DEAOA4ABFRDrbrYm-6">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-7" value="" style="endArrow=classic;html=1;exitX=-0.021;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TYf2DEAOA4ABFRDrbrYm-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="540" as="sourcePoint" />
             <mxPoint x="480" y="531" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-8" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="290" as="sourcePoint" />
             <mxPoint x="370" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-9" value="Carte Graphique GTX Geforce 4Go VRAM GDDR6&lt;br&gt;1280 cœurs CUDA ET 12 000 Mhz (fréquence mémoire)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-9" value="Carte Graphique GTX Geforce 4Go VRAM GDDR6&lt;br&gt;1280 cœurs CUDA ET 12 000 Mhz (fréquence mémoire)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="-100" y="274.54" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-10" value="CARTE MERE Micro ATX Socket AM4 Chipset AMD B450" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-10" value="CARTE MERE Micro ATX Socket AM4 Chipset AMD B450" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="281.13" y="20" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-14" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-14" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="110" as="sourcePoint" />
             <mxPoint x="380" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-15" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-15" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="50" as="sourcePoint" />
             <mxPoint x="630" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-16" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="130" as="sourcePoint" />
             <mxPoint x="610" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-17" value="Ligne de sortie Audio, Vidéo, internet, USB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-17" value="Ligne de sortie Audio, Vidéo, internet, USB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="715" y="120.56" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="250" as="sourcePoint" />
             <mxPoint x="240" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-19" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-19" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="140" as="sourcePoint" />
             <mxPoint x="240" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-20" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-20" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="250" as="sourcePoint" />
             <mxPoint x="240" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-21" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="390" as="sourcePoint" />
             <mxPoint x="240" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-22" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-22" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="390" as="sourcePoint" />
             <mxPoint x="240" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-23" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-23" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="360" as="sourcePoint" />
             <mxPoint x="240" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-24" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-24" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="520" as="sourcePoint" />
             <mxPoint x="270" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-25" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-25" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="520" as="sourcePoint" />
             <mxPoint x="270" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-26" value="SSD Stockage OS (Windows 10) et Logiciel de BIM" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-26" value="SSD Stockage OS (Windows 10) et Logiciel de BIM" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="110" y="505" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-27" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TYf2DEAOA4ABFRDrbrYm-26">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-27" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="TYf2DEAOA4ABFRDrbrYm-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="530" as="sourcePoint" />
             <mxPoint x="110" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TYf2DEAOA4ABFRDrbrYm-28" value="Solid State Drive 240 Go (Mémoire Flash)&amp;nbsp;&amp;nbsp;&lt;br&gt;NVMe - 6 Gb/s&lt;br&gt;3400 Mo/s (V/Lecture) et 1200 Mo/s (V/Ecriture)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="TYf2DEAOA4ABFRDrbrYm-28" value="Solid State Drive 240 Go (Mémoire Flash)&amp;nbsp;&amp;nbsp;&lt;br&gt;NVMe - 6 Gb/s&lt;br&gt;3400 Mo/s (V/Lecture) et 1200 Mo/s (V/Ecriture)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-185" y="500" width="270" height="50" as="geometry" />
         </mxCell>
       </root>
